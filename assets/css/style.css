@@ -1144,7 +1144,7 @@ body {
 
 .back-arrow {
   position: fixed;
-  top: 10px;
+  top: 25px;
   left: 10px;
   display: flex;
   align-items: center;
